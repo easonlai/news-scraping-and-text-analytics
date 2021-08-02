@@ -4,3 +4,5 @@ This is demo repo to demostrate how to scrape [news headlines data from Yahoo Ho
 
 News headlines are collected from Yahoo Hong Kong, content language would be in Tranditional Chinese (Cantonese).
 
+Pie Chart to visualize sentiment distribution of news headlines.
+![alt text](https://github.com/easonlai/news-scraping-and-text-analytics/blob/main/git-images/git-image-1.png)
